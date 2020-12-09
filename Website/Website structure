@@ -1,0 +1,52 @@
+1. Introduction
+
+Exposing the problem the world is currently facing with regards to resource alocation and consumption and population growth projections for the coming years. Explain why Africa is all the more relevant and interesting
+
+-> find a visualisation accounting for population growth  projections in the world and in Africa 
+-> find numbers providing evidence for pressure on resources 
+
+Develop on the notion of TFR, use literature to provide evidence for studying it in relation to Population Growth’s prediction in the light of sustainable resource allocation; explain what is sustainable resource allocation, what does it mean ? + why Africa. 
+
+-> one vis showing the correlation between pop growth and fertility rate ? 
+
+2. Research question and aims and objectives 
+
+3. Presenting the Datasets that will be studied (in a table)
+Primary purpose of the datasets 
+
+4. Background context justifying our research project and Data analysis
+
+Explain that our research process looked carefully at the variables that would be interesting to study to better adress government policies with regards to population growth objectives in the light of sustainable development.  
+Give the variables that will be studied and why: provide evidence with literature = show that the literature recognize a relationship between our variables at global scale 
+Then our hypothesis is: there is a similar correlation in Africa and as a matter of fact these variables are under the world's mean which is why TFR thus pop growth in Africa is above the world's average. 
+
+-> describe the summary statistics 
+-> visualisations of the correlation between fertility rates and these variables: graphs...
+And analyse these figures 
+
+-> use at least one map to compare countries in Africa and Africa with the rest of the world: map showing the different TFR level and compare with a map that shows parts of the world where high pressure on resources 
+Describe the map, the patterns 
+
+What does it prove us (what do we want to show to our audience)?: 
+
+- That these 3 variables must be pinned down by government policies to 'control' population growth in order to achieve sustainable devt goals that were presented at the beginning (or a least getting closer to it)
+Mention that there are other variables and explain why we did not choose to analyse them 
+Be critical 
+
+5. Methodology used for data visualisation and analysis 
+
+What methodology did we follow ? how did we apply it ? Are the problems we encountered ? What are the solutions we came up with ? 
+--> for data collection, data analysis (detail explanation of our use of python) , literature review etc. 
+
+6. Discussion 
+
+Reflection on our approach: 
+Methodology 
+Variables chosen 
+...
+
+7. Conclusion 
+
+
+
+
